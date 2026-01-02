@@ -11,7 +11,7 @@ A specialized conversational AI interface built with **Mistral-7B-Instruct-v0.2*
 ## 🛠️ Tech Stack
 * **Model:** Mistral-7B-Instruct-v0.2
 * **Libraries:** Hugging Face Transformers, PyTorch, Gradio
-* **Optimization:** QLoRA/4-bit Quantization
+* **Optimization:** 4-bit Quantization (NF4) via bitsandbytes.
 
 ## 📊 Evaluation
 Includes a built-in automated test suite to verify:
